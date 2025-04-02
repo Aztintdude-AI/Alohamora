@@ -1,5 +1,5 @@
-#Symbols for the Moto X 2nd Gen
-#Fingerprint: motorola/victara_att/victara:4.4.4/KXE21.187-38/38:user
+#Symbols for the Moto edge
+#Fingerprint: motorola/avatrn XT2045-1 Na 256G PVT/KXE21.187-38/38:user
 
 #The DWORD that needs to be nullified in order to pass all bounds checks
 BOUNDS_CHECK_DWORD_ADDRESS = 0xFE8236A4
